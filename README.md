@@ -1,4 +1,4 @@
-# | NLP | PEFT/LoRA | DialogSum | Dialog Summarize |
+# | NLP | PPO | DialogSum | Less-Toxic Summarize |
 
 ## NLP (Natural Language Processing) with PEFT (Parameter Efficient Fine-Tuning) and LoRA (Low-Rank Adaptation) for Less-Toxic Summarization
 
@@ -28,4 +28,4 @@ The [DialogSum Dataset](https://huggingface.co/datasets/knkarthick/dialogsum) Di
     - Perform human evaluation to gauge the model's output in terms of readability and coherence. This can involve annotators ranking generated summaries for quality.
     - Utilize ROUGE metrics to assess the quality of the generated summaries. ROUGE measures the overlap between generated summaries and human-written references.
 
-[| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/cnn-cv-mnist-classification)
+[| View on Kaggle |](kaggle.com/code/yannicksteph/nlp-ppo-dialogsum-less-toxic-summarize/notebook)
