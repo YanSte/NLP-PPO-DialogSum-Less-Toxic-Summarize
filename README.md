@@ -2,7 +2,7 @@
 
 ## NLP (Natural Language Processing) with PEFT (Parameter Efficient Fine-Tuning) and LoRA (Low-Rank Adaptation) for Less-Toxic Summarization
 
-# <b>1 <span style='color:#78D118'>|</span> Introduction</b>
+# <b><span style='color:#78D118'>|</span> Introduction</b>
 
 This project explores the capabilities of Large Language Models (LLMs), particularly emphasizing the utilization of Parameter Efficient Fine-Tuning (PEFT) to create dialogue summaries with reduced toxicity. We achieve this by employing the FLAN-T5 model alongside Meta AI's hate speech reward model.
 
